@@ -1,0 +1,37 @@
+[
+    {
+     "roll": "1",
+     "title": "React JS",
+     "category": "Zen Class doubt",
+     "description": "I had a doubt in dom manipulation",
+     "language": "TAMIL"
+    },
+    {
+     "roll": "2",
+     "title": "React JS",
+     "category": "Zen Class doubt",
+     "description": "I had a doubt in react router dom",
+     "language": "TAMIL"
+    },
+    {
+     "roll": "3",
+     "title": "React JS",
+     "category": "Zen Class doubt",
+     "description": "I had a doubt in usestate and usecontext",
+     "language": "TAMIL"
+    },
+    {
+     "roll": "4",
+     "title": "Node JS",
+     "category": "Zen Class doubt",
+     "description": "I am unable to install nodejs",
+     "language": "TAMIL"
+    },
+    {
+     "roll": "5",
+     "title": "Express",
+     "category": "Zen Class doubt",
+     "description": "I am unable to get data from MongoDB ",
+     "language": "TAMIL"
+    }
+   ]

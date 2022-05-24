@@ -1,0 +1,26 @@
+[
+    {
+        "id":"110",
+     "roll": "1",
+     "from": "21-01-2022",
+     "to": "22-01-2022",
+     "reasons": "I am going Native with my family so kindly give me a leave",
+     "approval": "Approved"
+    },
+    {
+        "id":"111",
+     "roll": "2",
+     "from": "21-12-2021",
+     "to": "28-12-2021",
+     "reasons": "I am going outstation with my family so kindly give me a leave",
+     "approval": " Approved"
+    },
+    {
+        "id":"112",
+     "roll": "3",
+     "from": "12-02-2022",
+     "to": "28-02-2022",
+     "reasons": "I had corono positive so needed a break ",
+     "approval": " Approved"
+    }
+   ]
