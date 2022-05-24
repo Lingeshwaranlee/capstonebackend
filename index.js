@@ -22,3 +22,6 @@ export const client = await createConnection();
 app.use("/query", queryRouter);
 
 app.listen(PORT, () => console.log(`server started ${PORT}`));
+app.get("/", (req, res) => {
+  res.send("welcome to the backend server");
+});
