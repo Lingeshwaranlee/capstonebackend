@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 4000;
 import dotenv from "dotenv";
 import { queryRouter } from "./routes/query.js";
-
+import { leaveRouter } from "./routes/leave.js";
 import cors from "cors";
 dotenv.config();
 app.use(cors());
@@ -20,6 +20,8 @@ async function createConnection() {
 export const client = await createConnection();
 
 app.use("/query", queryRouter);
+app.use("/leave", leaveRouter);
+
 
 app.listen(PORT, () => console.log(`server started ${PORT}`));
 app.get("/", (req, res) => {
